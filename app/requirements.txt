@@ -1,0 +1,10 @@
+uvicorn
+fastapi[standard]
+scikit-image
+shapely
+pettingzoo
+gym
+numpy
+matplotlib
+stable_baselines3
+torch
