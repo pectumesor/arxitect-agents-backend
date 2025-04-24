@@ -63,3 +63,7 @@ This allowed the frontend to:
 
 - Generate heatmaps to visualize congestion areas.
 
+### Example of a simulation:
+![Simulation Demo](./simulation.gif)
+
+
